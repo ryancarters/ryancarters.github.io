@@ -7,7 +7,7 @@ Formerly a Machine Learning Engineer at a FAANG company, I have a Ph.D. in Machi
 I share my data science journey, insights and lessons learned from my real-world experience at Medium.com.
  - Visit my Medium page: [medium.com/@RyanCarters](http://medium.com/@ryancarters).
 
-I also share free tutorials weekly on machine learning, cloud computing, and data privacy.
+I also share free tutorials weekly on **machine learning**, **cloud computing**, and **data privacy**.
  - Subscribe below to be notified:
 
 <!-- Begin Mailchimp Signup Form -->
