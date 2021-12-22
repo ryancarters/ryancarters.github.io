@@ -2,14 +2,13 @@
 
 Hello, I am Ryan Carters!
 
-I am a former Machine Learning Engineer at a FAANG company, with a PhD in Machine Learning. I am currently working full-time at a startup, parenting, and actively writing about data science.
+Formerly a Machine Learning Engineer at a FAANG company, I have a PhD in Machine Learning. I am currently working full-time at a startup, parenting, and actively writing about data science.
 
-On my Medium.com page, I share my data science journey, insights and lessons learned from my real world experience:
- - Check it out [here](http://medium.com/@ryancarters).
+I share my data science journey, insights and lessons learned from my real world experience at Medium.com.
+ - Visit my Medium page: [medium.com/@RyanCarters](http://medium.com/@ryancarters).
 
-I also share updated tutorials on machine learning, cloud computing and data privacy.
- - Subscribe below to be notified.
-
+I also share free tutorials on machine learning, cloud computing and data privacy.
+ - Subscribe below to be notified:
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7_dtp.css" rel="stylesheet" type="text/css">
